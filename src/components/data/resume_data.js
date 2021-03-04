@@ -4,24 +4,25 @@ import react from '../../assets/icons/react.svg'
 const languages = [
     {
         icon: react,
-        name: 'Node',
-        level: '45'
+        name: 'Core Javascript',
+        level: '50'
     },
     {
         icon: react,
         name: 'Core Java',
-        level: '60'
+        level: '70'
     },
     {
         icon: react,
-        name: 'HTML5',
+        name: 'Servlet & JSP',
         level: '80'
     },
     {
         icon: react,
-        name: 'react',
-        level: '60'
+        name: 'Spring Framework',
+        level: '50'
     },
+    
     {
         icon: react,
         name: 'Spring boot',
@@ -29,37 +30,63 @@ const languages = [
     },
     {
         icon: react,
-        name: 'Bootstrap4',
-        level: '80'
+        name: 'Hibernate',
+        level: '40'
+    },
+    {
+        icon: react,
+        name: 'Exprss js',
+        level: '50'
+    },
+    {
+        icon: react,
+        name: 'REST API',
+        level: '50'
     }
 ]
 
 const tools = [
     {
         icon: react,
-        name: 'STS 4',
+        name: 'ReactJs',
         level: '85'
     },
     {
         icon: react,
-        name: 'VS code',
-        level: '90'
-    },
-    {
-        icon: react,
-        name: 'MongoDb Compass',
-        level: '60'
-    },
-    {
-        icon: react,
-        name: 'MYSQL Work Beach',
+        name: 'NextJs',
         level: '65'
     },
     {
         icon: react,
-        name: 'AWS',
+        name: 'HTML5',
+        level: '50'
+    },
+    {
+        icon: react,
+        name: 'CSS',
+        level: '50'
+    },
+    {
+        icon: react,
+        name: 'ES6',
+        level: '75'
+    },
+    {
+        icon: react,
+        name: 'FlexBox',
         level: '40'
     },
+    {
+        icon: react,
+        name: 'Redux',
+        level: '80'
+    },
+    {
+        icon: react,
+        name: 'Bootstrap 4 ',
+        level: '40'
+    },
+    
 
 ]
 

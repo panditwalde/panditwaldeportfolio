@@ -72,7 +72,7 @@ const Resume = () => {
                     </h4>
                     <div className="resume-card__body">
                         <h5 className="resume-card__title">
-                            Java Full Stack Developer
+                            ( Java + ReactJs )
                         </h5>
                         <p className="resume-card__name">
                             Bridgelabz Solution LLP(Aug 2019 - Jan 2021)
@@ -91,7 +91,7 @@ const Resume = () => {
                     </h4>
                     <div className="resume-card__body">
                         <h5 className="resume-card__title">
-                            Full Stack Developer
+                           Software Trainee
                         </h5>
                         <p className="resume-card__name">
                             Teachchef software pvt ltd (feb 2020 - June 2020)
@@ -118,7 +118,7 @@ const Resume = () => {
             <div className="row">
                 <div className="col-lg-6 resume-languages">
                     <h5 className="reume-language__heading">
-                        Language and Framework
+                        Back End
                     </h5>
                     <div className="resume-language__body mt-3">
                         {
@@ -130,7 +130,7 @@ const Resume = () => {
                 </div>
                 <div className="col-lg-6 resume-languages">
                     <h5 className="reume-language__heading">
-                        Tools and Softwares
+                           Front End
                     </h5>
                     <div className="resume-language__body mt-3">
                         {
